@@ -1,1 +1,2 @@
-print('Frozone🥶')
+scar = "Frozone🥶🥶🥶"
+print(scar)
